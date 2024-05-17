@@ -1,0 +1,66 @@
+Pilas --------------------------------------------------------------------------------------------------------------------------
+S7 Cantidad Elementos Pila:
+Escribir un algoritmo para que dada una pila, devuelva la cantidad de elementos de dicha pila. La pila ingresada debe mantenerse idéntica después de finalizar el algoritmo. ¿Cuál es el orden de complejidad del algoritmo propuesto? 
+Aporte de …
+
+
+
+S7 Ejercicio 1: Secuencia orden inverso Pila
+Escribir un algoritmo para mostrar una secuencia de enteros en orden inverso al ingresado usando TDA pila
+Aporte de …
+
+
+
+
+Colas --------------------------------------------------------------------------------------------------------------------------
+S7 cantidad elementos Cola:
+Escribir un algoritmo para que dada una cola, devuelva la cantidad de elementos de dicha cola. La cola ingresada debe mantenerse idéntica después de finalizar el algoritmo. ¿Cuál es el orden de complejidad del algoritmo propuesto? 
+Aporte de …
+
+S7 Ejercicio 2: reemplazar Valores:
+Escribir un algoritmo en seudocódigo que reciba una cola Q de enteros y dos valores v1 y v2, y que devuelva la cola Q’ luego de reemplazar todas las ocurrencias de v1 por (v2-v1) en la cola Q. La solución puede usar colas auxiliares pero ningún otro TDA. Calcular y justificar la complejidad del algoritmo propuesto. Asumir que existe la operación num contarElementosCola(Cola C).
+Aporte de…
+
+
+
+Mixto U2 --------------------------------------------------------------------------------------------------------------------------
+S7 Ejercicio 3: Revertir cadena Paréntesis:
+Dada una cadena de caracteres consistente de letras minúsculas del idioma español y paréntesis, representada como una lista simplemente enlazada, escribir un algoritmo en seudocódigo que revierta las subcadenas dentro de cada par de paréntesis. La idea es partir desde las subcadenas en paréntesis más anidados, hacia afuera. El algoritmo debe devolver una lista simplemente enlazada que representa una cadena sin ningún paréntesis. Por ejemplo, si la cadena de entrada es “((mo)tiro(alg))”, la cadena de salida debería ser “algoritmo”. Solo se pueden ocupar los TDAs revisados en la unidad. Se debe indicar claramente las estructuras de datos utilizadas. Calcular y justificar la complejidad del algoritmo propuesto.
+Aporte de …
+
+S7Ejercicio 4:  Eliminar dígitos repetidos
+Dada una secuencia de dígitos del 0 al 9, representada como una lista simplemente enlazada, escribir un algoritmo en seudocódigo que elimine los dígitos repetidos, tal que cada dígito aparezca una única vez. El algoritmo debe mostrar una lista simplemente enlazada que representa el menor número posible entre todos los posibles resultados. Por ejemplo, si la secuencia de entrada es 23123, la secuencia de salida debería ser 123. Solo se pueden ocupar los TDAs lista simplemente enlazada y pila. Calcular y justificar la complejidad del algoritmo propuesto.
+Aporte de …
+
+S7Ejercicio 5:  Es Palindroma?
+Escribir un algoritmo para que dada una palabra, indique si es o no palíndroma (que se lee igual de derecha a izquierda y de izquierda a derecha). Solo se puede usar TDA pila o TDA cola para resolver este ejercicio. ¿Cuál es el orden de complejidad del algoritmo propuesto? 
+Aporte de …
+
+
+Grafos  --------------------------------------------------------------------------------------------------------------------------
+Aporte de …
+
+
+S8Ejercicio1: Para un grafo no dirigido G(V, A), representado por lista de adyacencia, dada una secuencia de nodos S, verificar si S es un camino de G. 
+Aporte de:
+
+
+S8Ejercicio2a.- Para un grafo no dirigido G(V, A), representado por listas de adyacencia, elabore un algoritmo que determine si el grafo es completo. Calcule T(n) y O(n).  
+Aporte de:
+
+
+
+S8Ejercicio2b.- Para un grafo no dirigido G(V, A), representado por matriz de adyacencia, elabore un algoritmo que determine si el grafo es completo. Calcule T(n) y O(n).  
+Aporte de:
+
+
+
+S8Ejercicio3a.- Para un grafo no dirigido G(V, A), representado por listas de adyacencia, elabore un algoritmo que construya el grafo complemento de un grafo. Calcule T(n) y O(n).  
+Aporte de:
+
+
+
+
+S8Ejercicio3b.- Para un grafo no dirigido G(V, A), representado por matriz de adyacencia, elabore un algoritmo que construya el grafo complemento de un grafo. Calcule T(n) y O(n).  
+Aporte de : 
+
